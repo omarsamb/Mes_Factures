@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mes Factures</string>
+    <string name="title_home">Presentation</string>
+    <string name="title_invoice">Invoice</string>
+    <string name="title_help">Help</string>
+    <string name="texte_presentation">La thematique qui sera traitée dans ce travail est du domaine
+        paiement plus précisément
+    dans le cadre des paiements de factures.
+    \n Il sera lieu de fournir à un utilisateur une interface d\'accès pour gérer ses factures.
+    \n Dans le dispositif qui sera mis en place les accès essentiels sont :
+    \n Une présentation du système de paiement
+    \n une rubrique d\'aide
+    \n Une page pour consulter les factures (factures payées, factures non payées)</string>
+</resources>
